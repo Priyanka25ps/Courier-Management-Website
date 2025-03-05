@@ -39,24 +39,8 @@ With the advent of the internet, booking a courier has become a hassle-free task
 - **Processor: Intel(R) Core (TM) i5-9300H CPU @ 2.40GHz  
 - **RAM: 8GB  
 - **Architecture: 64-bit operating system, x64-based processor  
-- **Input Devices: Keyboard and Mouse (recommended)  
-
-
-## 📂 Project Structure  
-/courier-management 
-│── index.php # Home page
-│── register.php # User registration
-│── login.php # User login
-│── dashboard.php # User dashboard
-│── manager.php # Branch manager dashboard
-│── staff.php # Staff management
-│── track.php # Courier tracking
-│── db_config.php # Database connection
-│── assets/ # CSS, JS, Images
-└── README.md # Project documentation
-
-
----
+- **Input Devices: Keyboard and Mouse (recommended)
+- 
 
 ## ⚙️ Installation & Setup  
 
